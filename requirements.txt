@@ -1,0 +1,6 @@
+numpy 
+pillow
+h5py
+matplotlib
+dask
+dask[array]
